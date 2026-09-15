@@ -56,6 +56,7 @@ Create appropriate DAX measures or calculated columns wherever required for the 
 
 
 **Output**
+<img width="1228" height="697" alt="eda6" src="https://github.com/user-attachments/assets/56186b4e-87a3-4eab-8163-5c71fbd84a1f" />
 
 **Result**
 Thus, the healthcare patient tracking data was successfully analyzed using Power BI, and an interactive dashboard was developed to identify important patient patterns, cases requiring attention, and operational insights for healthcare management.
